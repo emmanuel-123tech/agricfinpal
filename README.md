@@ -1,1 +1,2 @@
-# agricfinpal
+# Agricai webapp design
+
