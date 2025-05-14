@@ -66,7 +66,7 @@ export default function LandingPage() {
                   <div className="absolute -inset-1 rounded-xl bg-gradient-to-r from-green-600 to-emerald-500 opacity-30 blur-xl"></div>
                   <div className="relative rounded-xl overflow-hidden shadow-2xl w-full">
                     <Image
-                      src="/greenhouse-farming.png"
+                      src="/farmm.jpg"
                       alt="Farmers working in a modern greenhouse with rows of organic vegetables"
                       width={550}
                       height={310}
@@ -231,7 +231,7 @@ export default function LandingPage() {
                   <div className="absolute -inset-1 rounded-xl bg-white/20 opacity-50 blur-xl"></div>
                   <div className="relative rounded-xl overflow-hidden shadow-2xl w-full">
                     <Image
-                      src="/farm-worker-happy-see-non-gmo-vegetable-plantation-crop-yields-organically-growing-fresh-healthy-way-without-using-herbicides-eco-friendly-bio-agricultural-greenhouse-farm.jpg"
+                      src="/smilingg.jpg"
                       alt="Farmer using modern equipment to maintain crops"
                       width={600}
                       height={400}
