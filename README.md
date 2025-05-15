@@ -86,3 +86,5 @@ Top-performing youth agripreneurs
 Suggested loan size and terms based on score
 
 🟩 Impact: Equips financial institutions with trustworthy, explainable insights to de-risk agri-loans.
+
+# VIEW PROTOTYE: https://agricfinpal-nine.vercel.app/
