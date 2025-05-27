@@ -66,10 +66,10 @@ export default function LandingPage() {
                   <div className="absolute -inset-1 rounded-xl bg-gradient-to-r from-green-600 to-emerald-500 opacity-30 blur-xl"></div>
                   <div className="relative rounded-xl overflow-hidden shadow-2xl w-full">
                     <Image
-                      src="/farmm1.jpg"
+                      src="/farmm.jpg"
                       alt="Farmers working in a modern greenhouse with rows of organic vegetables"
-                      width={800}
-                      height={450}
+                      width={550}
+                      height={310}
                       className="object-cover w-full h-auto"
                       priority
                     />
