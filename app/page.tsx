@@ -68,8 +68,8 @@ export default function LandingPage() {
                     <Image
                       src="/farmm1.jpg"
                       alt="Farmers working in a modern greenhouse with rows of organic vegetables"
-                      width={550}
-                      height={310}
+                      width={800}
+                      height={450}
                       className="object-cover w-full h-auto"
                       priority
                     />
