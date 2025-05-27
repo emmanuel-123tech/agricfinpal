@@ -66,7 +66,7 @@ export default function LandingPage() {
                   <div className="absolute -inset-1 rounded-xl bg-gradient-to-r from-green-600 to-emerald-500 opacity-30 blur-xl"></div>
                   <div className="relative rounded-xl overflow-hidden shadow-2xl w-full">
                     <Image
-                      src="/farmm.jpg"
+                      src="/farmm1.jpg"
                       alt="Farmers working in a modern greenhouse with rows of organic vegetables"
                       width={550}
                       height={310}
@@ -231,7 +231,7 @@ export default function LandingPage() {
                   <div className="absolute -inset-1 rounded-xl bg-white/20 opacity-50 blur-xl"></div>
                   <div className="relative rounded-xl overflow-hidden shadow-2xl w-full">
                     <Image
-                      src="/smilingg.jpg"
+                      src="/smilingg1.jpg"
                       alt="Farmer using modern equipment to maintain crops"
                       width={600}
                       height={400}
@@ -247,7 +247,7 @@ export default function LandingPage() {
       <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t bg-white">
         <div className="flex items-center gap-2">
           <Leaf className="h-5 w-5 text-green-600" />
-          <p className="text-sm text-gray-500">© 2023 AgricFinPal. All rights reserved.</p>
+          <p className="text-sm text-gray-500">© 2025 AgricFinPal. All rights reserved.</p>
         </div>
         <nav className="sm:ml-auto flex gap-4 sm:gap-6">
           <Link className="text-xs text-gray-500 hover:text-green-600 transition-colors" href="#">
